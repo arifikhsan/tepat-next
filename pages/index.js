@@ -10,10 +10,12 @@ export default function Home() {
 
       <main className="flex flex-col items-center justify-center flex-1 w-full px-20 text-center">
         <h1 className="text-6xl font-bold">
-          <span className="text-blue-600">Teknisi Cepat Tanggap </span>
-          segera datang!
+          <span>Tepat. </span>
+          <span className="text-blue-600">Teknisi Cepat Tanggap. </span>
         </h1>
-
+        <h1 className="mt-8 text-6xl font-bold">
+          <span>Segera datang!</span>
+        </h1>
       </main>
 
       <footer className="flex items-center justify-center w-full h-24 border-t">
